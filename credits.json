@@ -1,37 +1,12 @@
 [
     {
-        "name": "LibreTexts Biology",
-        "description": "Where do reptiles live?",
-        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book:_Introductory_Biology_(CK-12)/12:_Vertebrates/12.20:_Reptile_Ecology"
+        "name": "Example 1",
+        "description": "Example 1 Description",
+        "url": "https://example.com/example1"
     },
     {
-        "name": "Britannica",
-        "description": "Where do reptiles live?",
-        "url": "https://www.britannica.com/animal/reptile"
-    },
-    {
-        "name": "Sciencing",
-        "description": "Reptiles in the Ecosystem",
-        "url": "https://sciencing.com/importance-reptiles-ecosystem-6587593.html"
-    },
-    {
-        "name": "ThoughtCo",
-        "description": "Physical Characteristics",
-        "url": "https://www.thoughtco.com/main-characteristics-of-reptiles-4114002"
-    },
-    {
-        "name": "PetPlace",
-        "description": "Is Reptiles a Social Creature?",
-        "url": "https://www.petplace.com/article/reptiles/general/can-reptiles-be-social/"
-    },
-    {
-        "name": "Category",
-        "description": "Category",
-        "url": "https://example.com/category/"
-    },
-    {
-        "name": "PetKeen",
-        "description": "Fun Facts about Reptiles",
-        "url": "https://petkeen.com/reptile-facts/"
+        "name": "Example 2",
+        "description": "Example 2 Description",
+        "url": "https://example.com/example2"
     }
 ]
