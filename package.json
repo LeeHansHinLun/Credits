@@ -1,0 +1,19 @@
+{
+  "name": "credits",
+  "version": "1.0.1",
+  "description": "A simple credits page",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "credits"
+  ],
+  "author": "MediumCraft (LeeHansHinLun)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "http-server": "^14.1.1",
+    "vite": "^4.3.8"
+  }
+}
