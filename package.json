@@ -4,13 +4,14 @@
   "description": "A simple credits page",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "test": "node server.js",
+    "build": "vite build"
   },
   "keywords": [
     "credits"
   ],
   "author": "MediumCraft (LeeHansHinLun)",
-  "license": "MIT",
+  "license": "MediumCraft Protective License",
   "dependencies": {
     "dotenv": "^16.0.3",
     "http-server": "^14.1.1",
